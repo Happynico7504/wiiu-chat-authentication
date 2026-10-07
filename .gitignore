@@ -28,3 +28,5 @@ build
 log
 *.pem
 *.key
+# Revivetendo runtime artifacts
+/wiiu-chat-authentication
